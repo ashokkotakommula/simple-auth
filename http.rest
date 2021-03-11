@@ -1,0 +1,25 @@
+###post
+
+POST http://localhost:8000/api/signup HTTP/1.1
+Content-Type: application/json
+
+{
+    "email": "ashok22@gmail.com",
+    "password": "ashok"
+}
+
+
+###get
+
+GET http://localhost:8000/api/users HTTP/1.1
+
+###login
+
+POST http://localhost:8000/api/login HTTP/1.1
+Content-Type: application/json
+
+{
+    "email": "ash22@gmail.com",
+    "password": "ashok"
+}
+
