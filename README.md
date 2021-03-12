@@ -9,4 +9,4 @@ when click on login a token will set in localstorage so we can not navigate to p
 
 
 
-*Fetching user data from mongodb giving error, when hosted in heroku. most people faced this issue, I'll try to fix this issue. 
+*Fetching user data from mongodb giving error, when hosted in heroku. most people faced this issue, I'll try to fix this issue. It works perfectly in locally.
